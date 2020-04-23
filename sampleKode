@@ -1,0 +1,20 @@
+<html>
+
+<head><title> sandbox html </title></head>
+
+<!-- intro : sample sandbox html
+slap a brief introduction Here
+its not mandatory, just good practice. -->
+
+  <body>
+<br> Kustom Media <br>
+	<audio controls title=" Song Title Here ">
+	<source src ="Song.mp3" type="audio/mpeg">
+	</audio>
+  </body>
+
+<!-- outro :
+brief ending notes
+Author https://github.com/tehwabb1t -->
+
+</html>
