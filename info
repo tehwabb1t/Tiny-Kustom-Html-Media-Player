@@ -1,0 +1,18 @@
+
+<!--
+
+Gregs Kustom Html Media Player info :
+create a basic blank file
+add the basic <html><body> tags to enable html controls
+edit or copy the above code for media files
+
+open <audio controls> to enable media controls
+add <source src = "medianame.extension" type="audio/extension>"
+close </audio>
+
+name as index.htm and set encoding to utf8
+store the media files in the root folder for easy access.
+
+Author https://github.com/tehwabb1t
+
+-->
