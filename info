@@ -1,10 +1,12 @@
 
 <!--
 
-Gregs Kustom Html Media Player info :
-create a basic blank file
+Simple Kustom Html Media Player
+
+Steps :
+create a basic blank textfile
 add the basic <html><body> tags to enable html controls
-edit or copy the above code for media files
+edit or copy the SampleKode code for media files
 
 open <audio controls> to enable media controls
 add <source src = "medianame.extension" type="audio/extension>"
